@@ -123,4 +123,4 @@ Replace `{order_id}` with the actual ID of the order.
 
 ## Conclusion
 
-JSONStore provides
+JSONStore provides a simple API for managing users and orders, with support for JSON data storage in PostgreSQL.
